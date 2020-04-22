@@ -6,7 +6,7 @@
 Explore Sakila DVD rental using SQL Queries
 
 ### Description
-This project is a part of an Udacity's nanodegree offering named "Programming for Data Science with R Nanodegree Program".
+This project is part of Udacity's nanodegree offering named "Programming for Data Science with R Nanodegree Program".
 
 The following queries are answered using SQL:
 1. We want to understand more about the movies that families are watching. The following categories are considered family movies: Animation, Children, Classics, Comedy, Family and Music.
